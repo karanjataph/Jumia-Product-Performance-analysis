@@ -315,11 +315,6 @@ Jumia-Product-Perfomance-analysis/
 ├── data/
 │   └── Excel_jumia_dataset(1).xlsx
 │
-├── analysis/
-│   └── sales_analysis.xlsx
-│
-└── images/
-    └── sales_trend.png
 ````
 
 ## 12. Author
