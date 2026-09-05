@@ -309,11 +309,11 @@ Overall, the analysis provides a data-driven foundation for improving sales perf
 ## 11. Project Structure
 
 ```text
-sales-analysis/
+Jumia-Product-Perfomance-analysis/
 │
 ├── README.md
 ├── data/
-│   └── sales_dataset.xlsx
+│   └── Excel_jumia_dataset(1).xlsx
 │
 ├── analysis/
 │   └── sales_analysis.xlsx
